@@ -1,4 +1,6 @@
 # TrainingCenter-Web
 • added SQL_Requests.rtf
 
-• added training_center_resetting.sql 
+• deleted training_center_resetting.sql
+
+* added training_center_resetting_fixed.sql
