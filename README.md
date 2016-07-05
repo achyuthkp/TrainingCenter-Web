@@ -1,6 +1,8 @@
 # TrainingCenter-Web
 • added SQL_Requests.rtf
 
-• deleted training_center_resetting.sql
+• DELETED training_center_resetting.sql
 
 • added training_center_resetting_fixed.sql
+
+• added project_before_insert_trigger.sql
